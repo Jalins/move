@@ -1,0 +1,10 @@
+[package]
+name = "Resource"
+version = "0.0.0"
+
+[dependencies]
+MoveStdlib = { local = "../pkg/move-stdlib" }
+AptosStdlib = { local = "../pkg/aptos-stdlib" }
+
+[addresses]
+std =  "0x1"

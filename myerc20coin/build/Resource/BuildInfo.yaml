@@ -1,12 +1,13 @@
 ---
 compiled_package_info:
-  package_name: my-move
+  package_name: Resource
   address_alias_instantiation:
     Extensions: "00000000000000000000000000000001"
+    MyCoinAddr: 0000000000000000000000000000000f
     aptos_framework: "00000000000000000000000000000001"
     aptos_std: "00000000000000000000000000000001"
     std: "00000000000000000000000000000001"
-  source_digest: CF12C96777AA3C9E8F03A109E71C1D1791EA8B42F130A1C575CB6F7BFF52CEDE
+  source_digest: 405C89F4792B4C899DF152EA47FA33DCC6DFB170791618830CF56067DAD6F380
   build_flags:
     dev_mode: false
     test_mode: false
