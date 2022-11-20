@@ -1,4 +1,4 @@
-module aptos_token::token {
+module my_nft::token {
     use std::error;
     use std::option::{Self, Option};
     use std::signer;

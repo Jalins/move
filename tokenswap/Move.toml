@@ -1,5 +1,5 @@
 [package]
-name = 'NFT'
+name = 'TokenSwap'
 version = '1.0.0'
 [dependencies.AptosFramework]
 git = 'https://github.com/aptos-labs/aptos-core.git'
@@ -8,4 +8,4 @@ subdir = 'aptos-move/framework/aptos-framework'
 
 [addresses]
 std = "0x1"
-my_nft = "881463a452c56a8f600762fd0314c39308a49227bf7f60cccf17f1a74afc6ce2"
+tokenswap = "0xac5ea53a4f73026a17c860cd205e321e2a2a91b702d089f9df93e9737be8b889"
